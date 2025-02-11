@@ -1,2 +1,7 @@
 # clock-ai
-The boundaries of using AI to generate code, fully relying on AI to generate a clock effect.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+@vitejs/plugin-react uses Babel for Fast Refresh
+@vitejs/plugin-react-swc uses SWC for Fast Refresh
